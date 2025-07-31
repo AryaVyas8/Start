@@ -1,6 +1,6 @@
-var a = ' Hello';
-var b = ' World,';
-var c = ' Asia, India, Gujarat, Vadodara';
-var d = ' !';
-var e = a+b+c+d;
-console.log(e);
+var ta = ' Hello';
+var tb = ' World,';
+var tc = ' Asia, India, Gujarat, Vadodara';
+var td = ' !';
+var te = ta+tb+tc+td;
+console.log(te);
