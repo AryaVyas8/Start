@@ -1,5 +1,5 @@
 var a = ' Hello';
 var b = ' World,';
-var c = ' Trees';
+var c = ' Land, Water, Space, Air, Fire';
 var e = a+b+c+d;
 console.log(e);
