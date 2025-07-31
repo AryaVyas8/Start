@@ -1,5 +1,6 @@
-var a = ' Hello';
-var b = ' World,';
-var c = ' Land, Water, Space, Air, Fire';
-var e = a+b+c+d;
-console.log(e);
+var ma = ' Hello';
+var mb = ' World,';
+var mc = ' Trees';
+var md = ' !'
+var me = ma+mb+mc+md;
+console.log(me);
